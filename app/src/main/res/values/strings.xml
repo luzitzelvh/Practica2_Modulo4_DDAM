@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica2LIVH</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Nombre\n</string>
+    <string name="alias">Alias</string>
+    <string name="adress">Dirección</string>
+    <string name="state">Estado</string>
+    <string name="check_conection">No fue posible obtener la información. Compruebe su conexión a internet</string>
+    <string name="fail_conection">Falla en la conexión</string>
+    <string name="ok">Ok</string>
+    <string name="id_received">ID recibido: %1$s</string>
+</resources>
